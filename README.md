@@ -63,7 +63,7 @@ The React frontend provides:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/rock-paper-scissors-aptos.git
+   git clone [https://github.com/your-username/rock-paper-scissors-aptos.git](https://github.com/ZibrasIsmail/Bounty---Level-Up-Your-Rock-Paper-Scissors-Game.git)
    cd rock-paper-scissors-aptos
    ```
 
