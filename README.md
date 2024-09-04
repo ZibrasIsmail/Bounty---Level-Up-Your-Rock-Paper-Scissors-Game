@@ -81,6 +81,10 @@ The React frontend provides:
    ```
 
 4. Update `.env` with your contract address
+   ```
+   MODULE_ADDRESS=""
+   MODULE_NAME=""
+   ```
 
 5. Run the frontend:
 
